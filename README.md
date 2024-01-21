@@ -1,7 +1,7 @@
 ## live link
 https://ajaykale21.github.io/todolist/
 
-# Simple To-Do List App
+## Simple To-Do List App
 
 A simple web-based to-do list application built using HTML, CSS, and JavaScript.
 
